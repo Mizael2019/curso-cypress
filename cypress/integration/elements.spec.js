@@ -27,16 +27,13 @@ describe('Trabalhando com elementos básicos', () => {
         cy.contains('Voltar').click()
         cy.get('#resultado').should('have.text', 'Voltou!')
     })
-})
 
-describe('Trabalhando com elementos básicos 2', () => {
-    before(() => {
-        cy.visit('https://wcaquino.me/cypress/frame.html')
+    //Inicio aula 13
+    it.only('Campos de Textos (Textfields)', () => {
+        cy.get('#formNome').type('Cypress Teste')
+
+
+
+
     })
-    it('Externo, teste de fora', () => {
-        
-    })
 })
-
-
-
