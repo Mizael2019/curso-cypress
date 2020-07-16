@@ -1,2 +1,38 @@
 # Dependency directories
 node_modules/
+
+# Optional npm cache directory
+package-lock.json
+
+## Windows detritus
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Eclipse
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# Grav Caches
+cache/compiled/
+cache/doctrine/
+cache/gpm/
+cache/twig/
+
+.idea
+
+cypress/videos
+cypress/screenshots
+cypress.env.json

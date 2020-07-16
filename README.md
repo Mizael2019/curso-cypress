@@ -1,4 +1,5 @@
 Respositório de Curso Cypress
+Ministrado pelo professor Francisco Aquino pela Udemy
 
 * Cypress
 
@@ -6,7 +7,7 @@ Respositório de Curso Cypress
 Clonando o projeto
 Url: https://github.com/Mizael2019/curso-cypress.git
 
-# Instalando as dependências package.json :
+# Instalando as dependências:
 * npm install ou npm i cypress
 
 # Rodando os testes
