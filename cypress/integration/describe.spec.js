@@ -10,7 +10,7 @@ describe('Shold grupo testes...', () => {
     
     });
 
-    it('Um ixterno tste...', () => {
+    it('Um externo tste...', () => {
     
     });
 
